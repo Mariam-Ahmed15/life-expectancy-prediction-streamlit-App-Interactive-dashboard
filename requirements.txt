@@ -1,8 +1,7 @@
-pip
-setuptools
-wheel
-joblib
-numpy
-pandas
-scikit-learn
-streamlit
+setuptools==80.0.0
+wheel==0.45.1
+joblib==1.4.2
+numpy==2.2.5
+pandas==2.2.3
+scikit-learn==1.6.1
+streamlit==1.44.1
