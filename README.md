@@ -43,7 +43,7 @@ The project utilizes a **Stacked Regressor**, combining the strengths of differe
 
 The model is deployed on Streamlit Cloud, enabling users to input features such as GDP, adult mortality, and immunization rates to predict life expectancy.
 
-You can access the deployed app [here]([https://life-expectancy-prediction-app-app-xzwhw45ah9aanatntpjkxp.streamlit.app/)).
+You can access the deployed app [here](https://life-expectancy-prediction-app-app-xzwhw45ah9aanatntpjkxp.streamlit.app/).
 
 
 ---- 
